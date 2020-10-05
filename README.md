@@ -7,7 +7,7 @@
 Welcome to Free Code Camp's open source codebase and curriculum!
 =======================
 
-Free Code Camp is a friendly open source community where you learn to code and help nonprofits.
+Hey Do you know Free Code Camp is a friendly open source community where you learn to code and help nonprofits.
 
 **We help our campers build job-worthy portfolios of real apps used by real people, while helping nonprofits.**
 
@@ -15,7 +15,7 @@ You start by working through our self-paced, browser-based full stack JavaScript
 
 ### By working through our curriculum, you can earn four certifications:
 ##### 1. Front End Certification
-The first section will teach you the basics of how webpages work and also introduce you to JavaScript programming.
+The first section would teach you the basics of how webpages work and also introduce you to JavaScript programming.
 
 Skills you'll practice include `HTML, CSS, JavaScript, jQuery` and `Bootstrap`.
 
